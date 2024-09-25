@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #76b81a;
+}
+
+section {
+    margin: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+/* Bullet points for unordered lists */
+ul {
+    list-style-type: disc; /* Set to disc to display bullets */
+    padding-left: 20px; /* Adds some padding to the left to make room for bullets */
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #322e2e;
+    color: #c1dd25;
+    text-align: left;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
